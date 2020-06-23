@@ -2,7 +2,7 @@
   "name": "hn-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "Kaori-Tapia.github.io/Hacker-News-Reader",
+  "homepage": "http://Kaori-Tapia.github.io/Hacker-News-Reader",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
